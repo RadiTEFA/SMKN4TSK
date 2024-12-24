@@ -1,0 +1,6 @@
+.jumbotron {
+  background-image: url(Gambar/GerbangSekolah.png);
+  background-size: cover;
+  background-position: center center;
+  padding: 100px;
+}
